@@ -1,0 +1,54 @@
+body{
+	margin:0;padding:0;
+}
+
+.demo
+{
+	border:1px solid red;
+}
+.demo h1{
+	color:red;font-size: 40px;
+}
+
+.main-blog
+{
+	border:2px solid green;
+}
+.grd
+{
+	border:1px solid red;
+}
+
+.tbl
+{
+	border:1px solid red;min-height:300px;padding:15px;
+}
+
+.tbl .cls{border:1px solid green;height:300px; cursor: pointer;}
+
+.bdg
+{
+	-border:2px solid red;
+	padding:25px;
+	background-color:#f5f5f5;
+}
+
+.pn1
+{
+	border:1px solid #ddd;
+	padding:20px;
+	background-color:#fbfbfb;
+}
+
+.header{
+	-background-color:orange;
+}
+
+.header ul li a{color:#fff !important;}
+
+.header ul li a:hover{background-color:#000 !important;}
+
+.login-form form{border:1px solid red;margin-bottom:100px;margin-top:30px;
+	-width:30%;padding:20px;}
+
+.header-new{margin:0;}	
